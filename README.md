@@ -14,7 +14,7 @@ questiones:
 Constraints:
 
 1. 1 <= s.length <= 1000
-2. s consist of only digits and English letters.
+2. s consists of only digits and English letters.
 3. just return only one result
 
 Example 1:
